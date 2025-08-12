@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mi Página Web</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: linear-gradient(135deg, #4facfe, #00f2fe);
+      margin: 0;
+      padding: 0;
+      text-align: center;
+      color: white;
+    }
+    header {
+      padding: 50px 20px;
+    }
+    h1 {
+      font-size: 3rem;
+      margin-bottom: 10px;
+    }
+    p {
+      font-size: 1.2rem;
+    }
+    footer {
+      margin-top: 50px;
+      padding: 10px;
+      background: rgba(0,0,0,0.2);
+    }
+    a {
+      color: yellow;
+      text-decoration: none;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>¡Hola, soy José Sergio! 👋</h1>
+    <p>Bienvenido a mi página web gratuita en GitHub Pages.</p>
+  </header>
+  <footer>
+    <p>📧 Contacto: <a href="mailto:jsergio.mq@gmail.com">jsergio.mq@gmail.com</a></p>
+  </footer>
+</body>
+</html>
